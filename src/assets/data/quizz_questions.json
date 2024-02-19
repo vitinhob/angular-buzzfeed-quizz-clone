@@ -1,55 +1,51 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Testando seu comportamento social",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Ao se esbarrar em alguem você..",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"❤️Pede desculpa", "alias":"A"},
+        {"id": 2, "name":"🤬Se altera e sai criticando", "alias":"B"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Ao receber uma ajuda você ..",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"❤️Agradece", "alias":"A"},
+        {"id": 2, "name":"🤬Vira as costas sem falar nada e vai em bora", "alias":"B"}
+        
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Quando vecê está comendo algo no meio de um grupo de amigos você..",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"🤬Não pergunta se eles querem", "alias":"B"},
+        {"id": 2, "name":"❤️Oferece", "alias":"A"}
+
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Quando tem alguem trancando seu caminho você.. ?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"🤬Manda sair da frente", "alias":"B"},
+        {"id": 2, "name":"❤️Pede licença pra passar", "alias":"A"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Quando alguem cai por algum motivo você..",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"❤️Pergunta se a pessoa está bem", "alias":"A"},
+        {"id": 2, "name":"🤬Você começa a rir", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você está seguindo um bom caminho!😇",
+    "B": "Você deveria repensar suas atitudes para que não tenha complicações futuras!😢"
   }
 }
